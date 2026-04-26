@@ -114,3 +114,8 @@ See `requirements.txt` for pinned versions.
 MIT
 
 ---
+
+## Acknowledgements
+
+- Course material: Prof. Francesco Musumeci, DEIB, Politecnico di Milano
+- Dataset: J. S. Rojas (Kaggle)
