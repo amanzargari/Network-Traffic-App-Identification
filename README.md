@@ -84,8 +84,8 @@ The notebook extends the same pipeline to a 3-class problem, adapting:
 
 ```bash
 # clone
-git clone https://github.com/<your-username>/network-traffic-app-identification.git
-cd network-traffic-app-identification
+git clone https://github.com/amanzargari/Network-Traffic-App-Identification.git
+cd Network-Traffic-App-Identification
 
 # environment
 python -m venv .venv
